@@ -14,16 +14,14 @@ Ruben Cadmus Namata (1806195091)
 
 ML01_Tugas05_Kelompok14_Klasifikasi Glass.ipynb
 
-https://colab.research.google.com/drive/1hRwSPbYi6kaFSL4aUPE5krXiAt4jqX9S?usp=sharing
 
 Glass Dataset 
 
 https://www.kaggle.com/uciml/glass
 
 
-ML01_Tugas05_Kelompok14_Clustering Wine.ipynb
 
-https://colab.research.google.com/drive/1wSxnaBEYs9L2Bb7eJXX1ejlQYu1-D_VA?usp=sharing
+ML01_Tugas05_Kelompok14_Clustering Wine.ipynb
 
 Wine Dataset
 
