@@ -1,4 +1,4 @@
-# Glass-Classification
+# Glass-Classification and Clustering using wine dataset
 Tugas 5 untuk kelas Pemodelan dan Machine Learning dengan dataset Glass Classification 
 
 
